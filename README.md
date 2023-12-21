@@ -1,4 +1,4 @@
-# Predict-Pricing-of-Rental-Properties-on-Airbnb
+# Predict Pricing of Rental Properties on Airbnb
 
 ## Problem and dataset description
 Pricing a rental property such as an apartment or house on Airbnb is a difficult challenge. A model that accurately predicts the price can potentially help renters and hosts on the platform make better decisions. In this assignment, your task is to train a model that takes features of a listing as input and predicts the price.
